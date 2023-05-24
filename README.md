@@ -11,9 +11,7 @@ About me: Beginner Unity programmer💻, learning C# programming language🎮 an
 *   ✉️  You can contact me at [romanbutkus2009@gmail.com](mailto:romanbutkus2009@gmail.com)
 *   🧠  I'm learning Unity, C#, Python
 *   🤝  I'm open to collaborating on Development mobile games<a href="https://www.github.com/romanbutkus" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/romanbutkus?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a><a href="https://www.twitter.com/RomanButkus" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/RomanButkus?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
-                /></a>### Skills 
+                  src="https://img.shields.io/github/followers/romanbutkus?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
