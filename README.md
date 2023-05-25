@@ -15,7 +15,7 @@ About me: Beginner Unity programmer💻, learning C# programming language🎮 an
 <a href="https://www.github.com/romanbutkus" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/romanbutkus?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
-###Skills
+### Skills
 
 
 <p align="left">
@@ -25,11 +25,11 @@ src="https://img.shields.io/github/followers/romanbutkus?logo=github&style=for-t
 </p>
 
 
-###Socials
+### Socials
 
 <p align="left"> <a href="https://discord.com/users/frox1c#6436" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/profile.php?id=100065123958999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/romanbutkus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/butkus_roman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RomanButkus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/channel/UCYSTYV9anZwVuqAPcM6ilcw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/froxik_dis_ok" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-###Badges
+### Badges
 
 <b>My GitHub Stats</b>
 
