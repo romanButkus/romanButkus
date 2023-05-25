@@ -6,10 +6,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
 =============================================================================================================================
 
-Beginner Unity programmer
--------------------------
+Unity programmer
+----------------
 
-About me: Beginner Unity programmer💻, learning C# programming language🎮 and Python🐍. I am also studying the Adobe Illustrator program🎨 I started to be interested in this in 2021. In the future, I plan to create games🕹 and apps for Android📱 and Windows🖥. Contact me: src="" /></a>
+About me: Beginner Unity programmer💻, learning C# programming language🎮 and Python🐍. I am also studying the Adobe Illustrator program🎨 I started to be interested in this in 2021. In the future, I plan to create games🕹 and apps for Android📱 and Windows🖥. Contact me:
 
 * 🌍  I'm based in Espoo
 * 🖥️  See my portfolio at [My GitHub profile](http://github/romanbutkus)
@@ -42,4 +42,6 @@ src="https://img.shields.io/github/followers/romanbutkus?logo=github&style=for-t
 
 <a href="https://github.com/romanbutkus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanbutkus&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romanButkus&theme=dracula)](https://github.com/romanButkus/github-readme-activity-graph)
+### Support Me
+
+<a href="https://www.buymeacoffee.com/romanbutkus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
