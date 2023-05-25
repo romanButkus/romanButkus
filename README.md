@@ -10,10 +10,10 @@ Unity programmer
 ----------------
 
 About me: Beginner Unity programmer💻, learning C# programming language🎮 and Python🐍. I am also studying the Adobe Illustrator program🎨 I started to be interested in this in 2021. In the future, I plan to create games🕹 and apps for Android📱 and Windows🖥. Contact me:  
-<a href="t.me/romanbutkus">
+<a href="https://t.me/romanbutkus">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/> 
 </a>
-<a href="instagram.com/butkus_roman">
+<a href="https://instagram.com/butkus_roman">
   <img src="https://img.shields.io/badge/Instagram-green?logo=Instagram&logoColor=purple" alt="Instagram Badge"/>
 </a>
 
