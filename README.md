@@ -9,10 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Unity programmer
 ----------------
 
-About me: Beginner Unity programmer💻, learning C# programming language🎮 and Python🐍. I am also studying the Adobe Illustrator program🎨 I started to be interested in this in 2021. In the future, I plan to create games🕹 and apps for Android📱 and Windows🖥. Contact me: 
-
-<img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-<img src="https://img.shields.io/badge/Instagram-green?logo=Instagram&logoColor=purple" alt="Instagram Badge"/>
+About me: Beginner Unity programmer💻, learning C# programming language🎮 and Python🐍. I am also studying the Adobe Illustrator program🎨 I started to be interested in this in 2021. In the future, I plan to create games🕹 and apps for Android📱 and Windows🖥. Contact me:  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/> <img src="https://img.shields.io/badge/Instagram-green?logo=Instagram&logoColor=purple" alt="Instagram Badge"/>
 
 * 🌍  I'm based in Espoo
 * 🖥️  See my portfolio at [My GitHub profile](http://github/romanbutkus)
