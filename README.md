@@ -1,10 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
+</div>
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
 =============================================================================================================================
 
 Beginner Unity programmer
 -------------------------
 
-About me: Beginner Unity programmer💻, learning C# programming language🎮 and Python🐍. I am also studying the Adobe Illustrator program🎨 I started to be interested in this in 2021. In the future, I plan to create games🕹 and apps for Android📱 and Windows🖥. Contact me:
+About me: Beginner Unity programmer💻, learning C# programming language🎮 and Python🐍. I am also studying the Adobe Illustrator program🎨 I started to be interested in this in 2021. In the future, I plan to create games🕹 and apps for Android📱 and Windows🖥. Contact me: src="" /></a>
 
 * 🌍  I'm based in Espoo
 * 🖥️  See my portfolio at [My GitHub profile](http://github/romanbutkus)
