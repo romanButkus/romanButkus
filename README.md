@@ -54,3 +54,24 @@ src="https://img.shields.io/github/followers/romanbutkus?logo=github&style=for-t
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/romanbutkus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/roman_butkus rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-7c3e4304-883b-45ef-8cbd-9b4b7feb9c37' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >roman_butkus</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I`m a programmer from Ukraine, staying in Finland. I have good skills at programming(c# coding language and Unity Engine), can complete medium-level tasks in Unity, also learning Python in Tampere University. Also learning Finnsih(about other languages that I know, you can found in my profile), so also can translate some text.
+
+
+
+</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-7c3e4304-883b-45ef-8cbd-9b4b7feb9c37' src='https://widgets.fiverr.com/api/v1/seller/roman_butkus?widget_id=7c3e4304-883b-45ef-8cbd-9b4b7feb9c37' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
