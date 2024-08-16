@@ -5,7 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
 =============================================================================================================================
 
-Developer
+Developer\Programmer
 ---------
 
 I\`m a developer from Ukraine 💻, learning C#, Unity🎮, WPF, xaml, .Net Framework, Python🐍, Sql Server, html. I have some small projects, that I made, you can check them out on my profile. In the future, I am planning to create games🕹 and apps for Android📱 and Windows🖥, and to use data bases.
