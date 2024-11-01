@@ -12,7 +12,7 @@ I\`m a developer from Ukraine , learning C#, Unity, WPF, .Net Framework, ASP.NET
 
 * 🌍  I'm based in Espoo
 * ✉️  You can contact me at [romanbutkus2009@gmail.com](mailto:romanbutkus2009@gmail.com)
-* 🧠  I'm learning C#, WPF, Python, .Net Framework, html, xaml
+* 🧠  I'm learning C#, Unity, WPF, .Net Framework, ASP.NET, Python, Sql Server, React, Next.js, html/css
 * 🤝  I'm open to collaborating on any project
 
 ### Skills
