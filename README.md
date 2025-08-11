@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer\Programmer
 ---------
 
-I\`m a developer from Ukraine , learning C#, Unity, WPF, .Net Framework, ASP.NET, Python, Sql Server, React, Next.js, html/css. I have some small projects, that I made, you can check them out on my profile. In the future, I am planning to create games🕹 and apps for Android📱 and Windows🖥, and to use data bases.
+I\`m a developer from Ukraine , learning C#, Unity, WPF, .Net Framework, ASP.NET, Python, Sql Server, React, Next.js, html/css. I have some small projects, that I made, you can check them out on my profile. In the future, I am planning to create games🕹 and apps for Android📱 and Windows🖥, and to use data bases. Curently studying in Business College Helsinki
 
 * 🌍  I'm based in Espoo
 * ✉️  You can contact me at [romanbutkus2009@gmail.com](mailto:romanbutkus2009@gmail.com)
