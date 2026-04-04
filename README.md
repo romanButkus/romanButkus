@@ -15,6 +15,34 @@ I\`m a developer from Ukraine , learning C#, Unity, WPF, .Net Framework, ASP.NET
 * 🧠  I'm learning C#, Unity, WPF, .Net Framework, ASP.NET, Python, Sql Server, React, Next.js, html/css
 * 🤝  I'm open to collaborating on any project
 
+<h1 align="center">Hi 👋 My name is Roman</h1>
+
+<h3 align="center">Developer / Programmer</h3>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a developer from Ukraine 🇺🇦, currently based in Espoo 🇫🇮.  
+I’m learning and working with:
+
+- 💻 C#, .NET (WPF, ASP.NET)
+- 🎮 Unity (game development)
+- 🌐 React, Next.js, HTML/CSS
+- 🐍 Python
+- 🗄 SQL Server
+
+I enjoy building small projects and constantly improving my skills.  
+In the future, I plan to create games 🎮 and apps for Android 📱 and Windows 🖥️.
+
+---
+
+### 📍 Info
+
+- 🌍 Based in Espoo, Finland
+- 📫 Contact: **romanbutkus2009@gmail.com**
+- 🤝 Open to collaboration
+
 ### Skills
 
 <div align="left">  
