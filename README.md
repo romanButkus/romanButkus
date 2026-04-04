@@ -32,14 +32,4 @@ I\`m a developer from Ukraine , learning C#, Unity, WPF, .Net Framework, ASP.NET
 [![Roman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romanButkus&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=romanButkus&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=romanButkus&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=romanButkus&show_icons=true" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanButkus)](https://github.com/anuraghazra/github-readme-stats)
