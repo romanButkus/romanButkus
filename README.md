@@ -8,6 +8,7 @@
 
 I'm a programmer from Ukraine <img src="https://flagcdn.com/w40/ua.png" width="20"/>, 
 based in Finland <img src="https://flagcdn.com/w40/fi.png" width="20"/>
+
 I’m learning and working with:
 
 - 💻 C#, .NET (WPF, ASP.NET)
