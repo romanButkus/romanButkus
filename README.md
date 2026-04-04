@@ -48,3 +48,14 @@ I\`m a developer from Ukraine , learning C#, Unity, WPF, .Net Framework, ASP.NET
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romanButkus&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
+### Connect with me
+<p align="left">
+<a href="https://twitter.com/romanbutkus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="romanbutkus" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roman-butkus-6ab72b304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman-butkus-6ab72b304/" height="30" width="40" /></a>
+<a href="https://kaggle.com/romanbutkus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanbutkus" height="30" width="40" /></a>
+<a href="https://instagram.com/vornalis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vornalis_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ro_man980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ro_man980" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/romanbutkus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="romanbutkus" height="30" width="40" /></a>
+<a href="https://discord.gg/denytat675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="denytat675" height="30" width="40" /></a>
+</p>
