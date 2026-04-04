@@ -31,6 +31,4 @@ I\`m a developer from Ukraine , learning C#, Unity, WPF, .Net Framework, ASP.NET
 
 [![Roman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romanButkus&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="left">
-  <a <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanButkus&theme=github_dark)" /></a>
-</p>
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanButkus&theme=github_dark
