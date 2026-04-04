@@ -1,21 +1,4 @@
-<div id="header" align="center">
-</div>
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
-=============================================================================================================================
-
-Developer\Programmer
----------
-
-I\`m a developer from Ukraine , learning C#, Unity, WPF, .Net Framework, ASP.NET, Python, Sql Server, React, Next.js, html/css. I have some small projects, that I made, you can check them out on my profile. In the future, I am planning to create games🕹 and apps for Android📱 and Windows🖥, and to use data bases. Curently studying in Business College Helsinki
-
-* 🌍  I'm based in Espoo
-* ✉️  You can contact me at [romanbutkus2009@gmail.com](mailto:romanbutkus2009@gmail.com)
-* 🧠  I'm learning C#, Unity, WPF, .Net Framework, ASP.NET, Python, Sql Server, React, Next.js, html/css
-* 🤝  I'm open to collaborating on any project
-
-<h1 align="center">Hi 👋 My name is Roman</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roman</h1>
 
 <h3 align="center">Developer / Programmer</h3>
 
@@ -32,8 +15,7 @@ I’m learning and working with:
 - 🐍 Python
 - 🗄 SQL Server
 
-I enjoy building small projects and constantly improving my skills.  
-In the future, I plan to create games 🎮 and apps for Android 📱 and Windows 🖥️.
+I enjoy building small projects and constantly improving my skills. Studying first year in Business College Helsinki.
 
 ---
 
@@ -41,7 +23,7 @@ In the future, I plan to create games 🎮 and apps for Android 📱 and Windows
 
 - 🌍 Based in Espoo, Finland
 - 📫 Contact: **romanbutkus2009@gmail.com**
-- 🤝 Open to collaboration
+- 🤝 Open to collaboration on any project
 
 ### Skills
 
