@@ -6,7 +6,8 @@
 
 ### 👨‍💻 About Me
 
-I'm a programmer from Ukraine 🇺🇦, currently based in Espoo 🇫🇮.  
+I'm a programmer from <img src="https://flagcdn.com/w40/ua.png" width="20"/> Ukraine, 
+based in <img src="https://flagcdn.com/w40/fi.png" width="20"/> Finland
 I’m learning and working with:
 
 - 💻 C#, .NET (WPF, ASP.NET)
@@ -14,7 +15,7 @@ I’m learning and working with:
 - 🌐 React, Next.js, HTML/CSS
 - 🐍 Python
 - 🗄 SQL Server
-- C++, Arduino, KiCad
+- 🖥️ C++, Arduino, KiCad
 
 I enjoy building small projects and constantly improving my skills. Studying first year in Business College Helsinki.
 
