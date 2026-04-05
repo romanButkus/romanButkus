@@ -25,7 +25,7 @@ I enjoy building small projects and constantly improving my skills. Studying fir
 ### 📍 Info
 
 - 🌍 Based in Espoo, Finland
-- 📫 Contact: **romanbutkus2009@gmail.com**
+- 📫 Contact me: **romanbutkus2009@gmail.com**
 - 🤝 Open to collaboration on any project
 
 ### Skills
