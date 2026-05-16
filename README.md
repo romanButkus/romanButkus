@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 My name is Roman</h1>
 
-<h3 align="center">Programmer / Student</h3>
+<h3 align="center">Software Developer / Student</h3>
 
 ---
 
